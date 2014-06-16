@@ -19,8 +19,10 @@ project/plugins/project/
 
 # Scala-IDE specific
 bin/
+.settings/
+.classpath
+.project
 .metadata
 *.cache
 *.scala_dependencies
 *.worksheet
-*.sc
